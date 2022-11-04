@@ -2,6 +2,7 @@
 
 int main(void)
 {   
+    printf("\n");
     printf("FOR LOOP\n");
     for (int i = 1; i <= 10; i++)
     {
