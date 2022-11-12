@@ -11,7 +11,7 @@ int main(void)
         ages[i] = 20;
     }
 
-    for (int i =0; i < n; i++)
+    for (int i = 0 ; i < n; i++)
     {
         printf("%i\n", ages[i]);
     }
